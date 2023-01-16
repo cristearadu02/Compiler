@@ -1,0 +1,10 @@
+< Function nr:1 > < type: specialTypeOf > < name: TypeOf > < params: specialParameters >
+< Function nr:2 > < type: specialEval > < name: Eval > < params: specialParameters >
+< Function nr:3 > < type: int > < name: testFunction1 > < params: int float  >
+< Function nr:4 > < type: int > < name: testFunction2 > < params: int int  >
+< Function nr:5 > < type: int > < name: test > < params: int int float  >
+< Function nr:6 > < type: void > < name: testtest > < params: int  >
+< Function nr:7 > < type: int > < name: cmmdc > < params: int char bool  >
+< Function nr:8 > < type: int > < name: set_name > < params: string  >
+< Function nr:9 > < type: int > < name: get_name > < params: none >
+< Function nr:10 > < type: int > < name: ruleaza > < params: int  >

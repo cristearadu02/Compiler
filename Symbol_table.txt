@@ -1,0 +1,41 @@
+< Variable nr:1 > < type: int > < name: x > < value: 10 > < scope: global >
+< Variable nr:2 > < type: int > < name: x1 > < value: NULL > < scope: global >
+< Variable nr:3 > < type: int > < name: x2 > < value: 16 > < scope: global >
+< Variable nr:4 > < type: int > < name: y > < value: 2 > < scope: global >
+< Variable nr:5 > < type: float > < name: f > < value: 20.50 > < scope: global >
+< Variable nr:6 > < type: float > < name: f1 > < value: 30.39 > < scope: global >
+< Variable nr:7 > < type: bool > < name: var_b > < value: true > < scope: global >
+< Variable nr:8 > < type: unsigned > < name: var_u > < value: 20 > < scope: global >
+< Variable nr:9 > < type: char > < name: a > < value: 'b' > < scope: global >
+< Variable nr:10 > < type: char > < name: chr > < value: NULL > < scope: global >
+< Variable nr:11 > < type: string > < name: my_str > < value: NULL > < scope: global >
+< Variable nr:12 > < type: string > < name: my_str2 > < value: "My string 2" > < scope: global >
+< Variable nr:13 > < type: const int > < name: var_cnst > < value: 10 > < scope: global >
+< Variable nr:14 > < type: int > < name: xy > < value: NULL > < scope: function_parameter >
+< Variable nr:15 > < type: float > < name: z2 > < value: NULL > < scope: function_parameter >
+< Variable nr:16 > < type: int > < name: x3 > < value:  > < scope: function_parameter >
+< Variable nr:17 > < type: int > < name: z3 > < value: 2 > < scope: function_parameter >
+< Variable nr:18 > < type: int > < name: param1 > < value: NULL > < scope: function_parameter >
+< Variable nr:19 > < type: int > < name: param2 > < value: NULL > < scope: function_parameter >
+< Variable nr:20 > < type: float > < name: ff > < value: NULL > < scope: function_parameter >
+< Variable nr:21 > < type: int > < name: param3 > < value: 5 > < scope: function_parameter >
+< Variable nr:22 > < type: int > < name: nr1 > < value: 20 > < scope: function_parameter >
+< Variable nr:23 > < type: char > < name: nr2 > < value: 'a' > < scope: function_parameter >
+< Variable nr:24 > < type: bool > < name: nr3 > < value: false > < scope: function_parameter >
+< Variable nr:25 > < type: int > < name: viteza > < value: NULL > < scope: in_class >
+< Variable nr:26 > < type: string > < name: culoare > < value: "alb" > < scope: in_class >
+< Variable nr:27 > < type: bool > < name: ceva > < value: NULL > < scope: in_class >
+< Variable nr:28 > < type: string > < name: name > < value: "Hey" > < scope: function_parameter >
+< Variable nr:29 > < type: public class > < name: masina > < value: NULL > < scope: in_class >
+< Variable nr:30 > < type: int > < name: speed > < value: NULL > < scope: function_parameter >
+< Variable nr:31 > < type: protected class > < name: c1 > < value: NULL > < scope: in_class >
+< Variable nr:32 > < type: class masina > < name: Dacia > < value: NULL > < scope: main >
+< Variable nr:33 > < type: string > < name: Dacia1 > < value: "Logan" > < scope: main >
+< Variable nr:34 > < type: string > < name: my_string5 > < value: "Hello world!" > < scope: main >
+< Variable nr:35 > < type: char > < name: b > < value: 'a' > < scope: main >
+< Variable nr:36 > < type: const int > < name: c > < value: 12 > < scope: main >
+< Variable nr:37 > < type: int > < name: r > < value: 57 > < scope: main >
+< Variable nr:38 > < type: int > < name: d > < value: NULL > < scope: main >
+< Array nr:1 > < type: int > < name: arr > < max_range: 10 > < values: [3]->3 >
+< Array nr:2 > < type: char > < name: arr2 > < max_range: 10 > < values: [5]->'c' >
+< Array nr:3 > < type: float > < name: arr_float > < max_range: 12 > < values: [2]->4.69 >
