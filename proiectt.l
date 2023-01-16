@@ -70,7 +70,7 @@
 [0-9]+[u]                      {yylval.intVal = atoi(yytext); return UNSIGNED;}
 [-]?[0-9]+                     {yylval.intVal = atoi(yytext); return INT;}
 [-]?[0-9]*\.?[0-9]+            {yylval.floatVal = atof(yytext); return FLOAT;}
-['][a-zA-Z0-9][']                 {yylval.charVal = yytext[1]; return CHAR;}
+['][a-zA-Z0-9][']              {yylval.charVal = yytext[1]; return CHAR;}
 \"([^\\\"]|\\.)*\"             {yylval.strVal = strdup(yytext); return STRING_VALUE;}
 
 [ \t] ;
